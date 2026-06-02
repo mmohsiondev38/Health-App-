@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Heart icon outline -->
+    <path
+        android:pathData="M54,35 C48,26 30,26 30,42 C30,59 54,76 54,76 C54,76 78,59 78,42 C78,26 60,26 54,35 Z"
+        android:fillColor="#1500E676"
+        android:strokeWidth="4"
+        android:strokeColor="#00E676"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <!-- Running ECG pulse line passing through -->
+    <path
+        android:pathData="M24,54 L40,54 L44,48 L48,64 L54,32 L60,58 L64,50 L68,54 L84,54"
+        android:strokeWidth="4"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>

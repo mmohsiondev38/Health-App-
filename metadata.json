@@ -1,0 +1,6 @@
+{
+  "name": "Health Tracker",
+  "description": "Track steps, daily caloric intake, and weight progress with interactive visual charts, milestone tracker, and daily goal achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
